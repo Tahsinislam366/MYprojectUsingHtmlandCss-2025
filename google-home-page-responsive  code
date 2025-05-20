@@ -1,0 +1,12 @@
+/*mobile view*/
+@media (max-width: 768px){
+  section .main .search-bar .search-input{
+    width:80%;
+ 
+} 
+section .footer .row ul{
+    display:block;
+}
+}
+
+
